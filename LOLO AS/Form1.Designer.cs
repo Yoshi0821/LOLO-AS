@@ -42,7 +42,7 @@ namespace LOLO_AS
             this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.label1.Location = new System.Drawing.Point(338, 67);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(126, 37);
+            this.label1.Size = new System.Drawing.Size(133, 39);
             this.label1.TabIndex = 0;
             this.label1.Text = "Prueba";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -60,7 +60,7 @@ namespace LOLO_AS
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Location = new System.Drawing.Point(573, 65);
+            this.button1.Location = new System.Drawing.Point(570, 68);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(180, 126);
             this.button1.TabIndex = 2;
