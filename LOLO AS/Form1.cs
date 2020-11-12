@@ -28,7 +28,7 @@ namespace LOLO_AS
 
         private void mostrarLabel()
         {
-
+            //hola
         }
         
 
