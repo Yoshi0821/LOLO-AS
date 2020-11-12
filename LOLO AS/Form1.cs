@@ -29,10 +29,17 @@ namespace LOLO_AS
         private void mostrarLabel()
         {
             //hola
+            //hola
         }
-        
+
 
         public void hole()
+        {
+            //Prueba
+            //Prueba
+        }
+
+        public void marioGay()
         {
             //Prueba
             //Prueba
