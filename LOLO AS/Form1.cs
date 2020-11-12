@@ -32,13 +32,6 @@ namespace LOLO_AS
             //hola
         }
 
-
-        public void holo()
-        {
-            //Prueba
-            //Prueba
-        }
-
         private void Machulgay()
         {
             for(int i=0; i<8; i++)
