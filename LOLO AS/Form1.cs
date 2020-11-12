@@ -48,6 +48,9 @@ namespace LOLO_AS
         {
             //Prueba
             //Prueba
+            int a = 2;
+            int b = 0;
+            b = a + a;
         }
 
     }
