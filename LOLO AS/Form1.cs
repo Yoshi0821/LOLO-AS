@@ -38,5 +38,10 @@ namespace LOLO_AS
             //Prueba
         }
 
+        private void Machulgay()
+        {
+
+        }
+
     }
 }
