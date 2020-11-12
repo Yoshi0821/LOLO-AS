@@ -41,7 +41,10 @@ namespace LOLO_AS
 
         private void Machulgay()
         {
+            for(int i=0; i<8; i++)
+            {
 
+            }
         }
 
         public void marioGay()
