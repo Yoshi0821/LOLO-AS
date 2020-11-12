@@ -62,5 +62,10 @@ namespace LOLO_AS
 
         }
 
+        public void salsaPaQueAmarre()
+        {
+
+        }
+
     }
 }
