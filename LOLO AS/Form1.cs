@@ -32,6 +32,14 @@ namespace LOLO_AS
             //hola
         }
 
+
+        public void holo()
+        {
+            //Prueba
+            //Prueba
+            int machurio = 0;
+        }
+
         private void Machulgay()
         {
             for(int i=0; i<8; i++)
