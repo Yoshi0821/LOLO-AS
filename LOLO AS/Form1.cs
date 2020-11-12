@@ -33,7 +33,7 @@ namespace LOLO_AS
         }
 
 
-        public void hole()
+        public void holo()
         {
             //Prueba
             //Prueba
@@ -55,6 +55,11 @@ namespace LOLO_AS
             int b = 0;
             b = a + a;
             a = b + b;
+        }
+
+        public void marioYmachulGay()
+        {
+
         }
 
     }
