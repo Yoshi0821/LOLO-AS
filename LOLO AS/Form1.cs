@@ -39,6 +39,11 @@ namespace LOLO_AS
             //Prueba
         }
 
+        private void Machulgay()
+        {
+
+        }
+
         public void marioGay()
         {
             //Prueba
