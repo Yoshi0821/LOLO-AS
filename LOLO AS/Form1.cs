@@ -26,6 +26,12 @@ namespace LOLO_AS
 
         }
 
+        private void mostrarLabel()
+        {
+
+        }
+        
+
         public void hole()
         {
 
