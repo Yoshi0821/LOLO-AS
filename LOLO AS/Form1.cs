@@ -62,6 +62,11 @@ namespace LOLO_AS
 
         }
 
+        public void salsaPaQueAmarre()
+        {
+
+        }
+
         public void marioYMachulSelaComen()
         {
             //El corazon tucun tucun
