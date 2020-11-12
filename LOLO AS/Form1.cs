@@ -17,14 +17,14 @@ namespace LOLO_AS
             InitializeComponent();
         }
 
+        public void hola()
+        {
+            //Prueba
+        }
         private void label1_Click(object sender, EventArgs e)
         {
-            
-        }
-
-        private void mostrarLabel()
-        {
 
         }
+        
     }
 }
