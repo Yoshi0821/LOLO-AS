@@ -37,6 +37,7 @@ namespace LOLO_AS
         {
             //Prueba
             //Prueba
+            int machurio = 0;
         }
 
         private void Machulgay()
